@@ -599,6 +599,7 @@ body {
   right: 8px;
   top: 8px;
   position: absolute;
+  fill: var(--nav-link-color);
 
   display: flex;
   align-items: center;
